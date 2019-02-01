@@ -4,8 +4,8 @@ class Person
     @name = new_name
   end
   
-  def
-  
+  def name
+    @name
   end
   
 end
