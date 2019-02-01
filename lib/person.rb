@@ -9,11 +9,11 @@ class Person
   end
   
   def jobs=(job_title)
-    @name = new_name
+    @jobs = job_title
   end
   
-  def name
-    @name
+  def jobs
+    @jobs
   end
   
 end
